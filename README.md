@@ -2,9 +2,9 @@
 ## Project Overview
 This analysis explores restaurant trends, customer preferences, and service types (online/offline). It examines factors like restaurant types, price range, ratings, and votes to derive meaningful insights.
 ## Table of Contents
-1. [Installing Required Packages](https://github.com/richasingh-11/zomato-data-analysis/edit/main/README.md#installing-required-packages)
-2. [Data Analysis and Manipulation](https://github.com/richasingh-11/zomato-data-analysis/edit/main/README.md#data-analysis-and-manipulation)
-3. [Data Visualization](https://github.com/richasingh-11/zomato-data-analysis/edit/main/README.md#data-visualization)
+1. [Installing Required Packages](#Installing-Required-Packages)
+2. [Data Analysis and Manipulation](#Data-Analysis-and-Manipulation)
+3. [Data Visualization](#Data-Visualization)
 ## Installing Required Packages
 To run this python project, install these python libraries:
 1. Jupyter Notebook or VS Code
